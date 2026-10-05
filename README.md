@@ -182,8 +182,8 @@ because a row count came back 120 instead of 144. Now I verify counts after ever
 
 | | |
 |---|---|
-| [`schema/programme-engine.sql`](schema/programme-engine.sql) | Templates, slots, assignment and the snapshot |
-| [`schema/rls-and-access.sql`](schema/rls-and-access.sql) | Row-level security, definer views, `claim_signup` |
+| [`programme-engine.sql`](programme-engine.sql) | Templates, slots, assignment and the snapshot |
+| [`rls-and-access.sql`](rls-and-access.sql) | Row-level security, definer views, `claim_signup` |
 
 ---
 
